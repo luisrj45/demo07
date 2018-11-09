@@ -4,3 +4,4 @@
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros que sean super heroes
 4. necesitamos mas comida
+5. Nesecitamos investigar los trabajos del enemigo
